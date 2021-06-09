@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="E:\2021\UNADM\ENERO-JUNIO\PROGRAMACIÓN NET II\DPRN2_U2_EA_LAEI.cs" Link="DPRN2_U2_EA_LAEI.cs" />
+  </ItemGroup>
+
+</Project>
